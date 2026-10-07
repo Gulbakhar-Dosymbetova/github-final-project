@@ -1,0 +1,22 @@
+FINAL PROJECT — PART 1 URLS
+
+Replace YOUR_USERNAME with your GitHub username after uploading the files.
+
+Task 1 — README.md
+https://github.com/YOUR_USERNAME/github-final-project/blob/main/README.md
+
+Task 2 — LICENSE
+https://github.com/YOUR_USERNAME/github-final-project/blob/main/LICENSE
+
+Task 3 — CODE_OF_CONDUCT.md
+https://github.com/YOUR_USERNAME/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+Task 4 — CONTRIBUTING.md
+https://github.com/YOUR_USERNAME/github-final-project/blob/main/CONTRIBUTING.md
+
+Task 5 — simple-interest.sh
+https://github.com/YOUR_USERNAME/github-final-project/blob/main/simple-interest.sh
+
+IMPORTANT:
+Open simple-interest.sh before uploading and replace YOUR_GITHUB_USERNAME
+with your actual GitHub username.
